@@ -18,7 +18,8 @@ Before you can run the code, ensure you have the following installed:
 - matplotlib
 - seaborn
 
-![1__sp4c5RUZsAY3i5PqAN4pw](https://github.com/user-attachments/assets/9e4fb1bc-820f-4c5e-8b39-9ba2ef702e76)
+![1-s2 0-S0010482521004662-gr1](https://github.com/user-attachments/assets/4f435770-687e-4c27-a481-d43855d58610)
+
 ## Dataset
 The dataset used for training and evaluation is assumed to be in a CSV format. It should contain the following columns:
 
@@ -86,4 +87,5 @@ The specific machine learning algorithm used can be customized by modifying the 
 - Decision Trees
 - Random Forests
 - Support Vector Machines
-- ![1-s2 0-S0010482521004662-gr1](https://github.com/user-attachments/assets/4f435770-687e-4c27-a481-d43855d58610)
+
+![1__sp4c5RUZsAY3i5PqAN4pw](https://github.com/user-attachments/assets/9e4fb1bc-820f-4c5e-8b39-9ba2ef702e76)
