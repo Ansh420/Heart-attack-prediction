@@ -1,3 +1,5 @@
+![heart_disease_prediction_logo2_](https://github.com/user-attachments/assets/d616f6d6-ad33-4848-9114-60a0772dd6ca)
+
 # Heart-attack-prediction
 
 The silver lining is that heart attacks are highly preventable and simple lifestyle modifications(such as reducing alcohol and tobacco use; eating healthily and exercising) coupled with early treatment greatly improves its prognosis. It is, however, difficult to identify high risk patients because of the multi-factorial nature of several contributory risk factors such as diabetes, high blood pressure, high cholesterol, et cetera. This is where machine learning and data mining come to the rescue.
@@ -15,7 +17,8 @@ Before you can run the code, ensure you have the following installed:
 - scikit-learn
 - matplotlib
 - seaborn
-  
+
+![1__sp4c5RUZsAY3i5PqAN4pw](https://github.com/user-attachments/assets/9e4fb1bc-820f-4c5e-8b39-9ba2ef702e76)
 ## Dataset
 The dataset used for training and evaluation is assumed to be in a CSV format. It should contain the following columns:
 
@@ -83,3 +86,4 @@ The specific machine learning algorithm used can be customized by modifying the 
 - Decision Trees
 - Random Forests
 - Support Vector Machines
+- ![1-s2 0-S0010482521004662-gr1](https://github.com/user-attachments/assets/4f435770-687e-4c27-a481-d43855d58610)
