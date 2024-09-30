@@ -23,33 +23,33 @@ Before you can run the code, ensure you have the following installed:
 ## Dataset
 The dataset used for training and evaluation is assumed to be in a CSV format. It should contain the following columns:
 
-**age**: Age of the patient
+- **age**: Age of the patient
 
-**sex**: 1 for male, 0 for female
+- **sex**: 1 for male, 0 for female
 
-**cp**: Chest pain type (1-4)
+- **cp**: Chest pain type (1-4)
 
-**trestbps**: Resting blood pressure
+- **trestbps**: Resting blood pressure
 
-**chol**: Serum cholesterol
+- **chol**: Serum cholesterol
 
-**fbs**: Fasting blood sugar (1 if > 120 mg/dl, 0 otherwise)
+- **fbs**: Fasting blood sugar (1 if > 120 mg/dl, 0 otherwise)
 
-**restecg**: Resting electrocardiographic results (0, 1, 2)
+- **restecg**: Resting electrocardiographic results (0, 1, 2)
 
-**thalach**: Maximum heart rate achieved
+- **thalach**: Maximum heart rate achieved
 
-**exang**: Exercise-induced angina (1: yes, 0: no)
+- **exang**: Exercise-induced angina (1: yes, 0: no)
 
-**oldpeak**: ST depression induced by exercise 
+- **oldpeak**: ST depression induced by exercise 
 
-**slope**: Slope of the ST segment (0, 1, 2)
+- **slope**: Slope of the ST segment (0, 1, 2)
 
-**ca**: Number of major vessels colored by fluoroscopy
+- **ca**: Number of major vessels colored by fluoroscopy
 
-**thal**: Thallium stress test result (0, 1, 2, 3)
+- **thal**: Thallium stress test result (0, 1, 2, 3)
 
-**target**: 1 for heart attack, 0 for no heart attack
+- **target**: 1 for heart attack, 0 for no heart attack
 
 ## Usage
 Clone the Repository:
