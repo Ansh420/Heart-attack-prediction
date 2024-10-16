@@ -60,8 +60,6 @@ $ git clone https://github.com/Ansh420/heart-attack-prediction.git
 
 
 ## Install Dependencies:
-
-- Bash
   
 $ pip install -r requirements.txt
 
@@ -71,8 +69,6 @@ $ pip install -r requirements.txt
 Place your dataset in a CSV file named heart.csv.
 
 - Train the Model:
-
-Bash
 
 $ python train.py
 
