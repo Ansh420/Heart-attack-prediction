@@ -62,7 +62,7 @@ $ git clone https://github.com/Ansh420/heart-attack-prediction.git
 ## Install Dependencies:
 
 - Bash
-- 
+  
 $ pip install -r requirements.txt
 
 
