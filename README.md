@@ -61,16 +61,16 @@ $ git clone https://github.com/Ansh420/heart-attack-prediction.git
 
 ## Install Dependencies:
   
-$ pip install -r requirements.txt
+$ pip install **-r requirements.txt**
 
 
 ## Prepare the Data:
 
-Place your dataset in a CSV file named heart.csv.
+Place your dataset in a CSV file named **heart.csv**.
 
 - Train the Model:
 
-$ python train.py
+$ python **train.py**
 
 
 This script will load the dataset, preprocess it, and train a machine learning model.
