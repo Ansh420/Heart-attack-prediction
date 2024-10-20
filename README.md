@@ -56,7 +56,7 @@ Clone the Repository:
 
  $ Bash
  
-$ git clone https://github.com/Ansh420/heart-attack-prediction.git
+$ git clone **https://github.com/Ansh420/heart-attack-prediction.git**
 
 
 ## Install Dependencies:
@@ -77,7 +77,7 @@ This script will load the dataset, preprocess it, and train a machine learning m
 
 
 ## Model Architecture
-The specific machine learning algorithm used can be customized by modifying the train.py script. Possible options include:
+The specific machine learning algorithm used can be customized by modifying the **train.py** script. Possible options include:
 
 - Logistic Regression
 - Decision Trees
