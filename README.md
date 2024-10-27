@@ -11,12 +11,12 @@ I will be giving you a walk through on the development of a screening tool for p
 
 Before you can run the code, ensure you have the following installed:
 
-- Python 3.6 or later
-- NumPy
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
+- Python 3.6 or later.
+- NumPy.
+- pandas.
+- scikit-learn.
+- matplotlib.
+- seaborn.
 
 ![1-s2 0-S0010482521004662-gr1](https://github.com/user-attachments/assets/4f435770-687e-4c27-a481-d43855d58610)
 
